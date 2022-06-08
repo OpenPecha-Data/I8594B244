@@ -1,0 +1,27 @@
+id: I8594B244
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-04-01T00:57:48+00:00'
+last_modified: '2022-06-08T05:24:06.784564+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W30391
+  title: སྐྱ་མོ་ལམ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+  base:
+    C3E5:
+      image_group_id: I1KG16016
+      title: ''
+      total_pages: 294
+      order: 1
+      base_file: C3E5.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
